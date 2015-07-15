@@ -3,7 +3,7 @@ public class Control1 {
 		if (args.length > 0) {
 			System.out.println(args[0]);
 		} else {
-			System.out.println("ÀÔ·Â°ªÀÌ ¾ø½À´Ï´Ù.");
+			System.out.println("ì…ë ¥ê°’ì´ ì—†ìŠµë‹ˆë‹¤.");
 		}
 	}
 }
